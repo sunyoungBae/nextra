@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.nhnent.com/TOASTCloud/nhn-cloud-fe-boilerplate.git",
+  "homepage": "https://wlsrbqo123.github.io/nextra",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
@@ -17,5 +17,8 @@
     "nextra-theme-docs": "^2.2.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
