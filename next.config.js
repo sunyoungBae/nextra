@@ -5,10 +5,10 @@ const withNextra = require("nextra")({
 
 module.exports = {
   ...withNextra(),
+
   images: {
     unoptimized: true,
   },
+  assetPrefix: "https://sunyoungbae.github.io/nextra/",
+  trailingSlash: true, // 빌드 시 폴더 구조 그대로 생성하도록
 };
-
-// If you have other Next.js configurations, you can pass them as the parameter:
-// module.exports = withNextra({ /* other next.js config */ })
