@@ -1,0 +1,11 @@
+{
+  "index": {
+    "type": "page",
+    "title": "Index",
+    "display": "hidden"
+  },
+  "hanguel": {
+    "title": "한글",
+    "type": "page"
+  }
+}
